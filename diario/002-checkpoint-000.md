@@ -1,12 +1,16 @@
 Github é uma plataforma aonde vc guarda seus codigos de um jeito muito seguro, Git é um programa que é um caminho pra colocar todos os seus codigos, mudancas nos arquivos dentro do github!
+TENTATIVA 2 - Git é um arquivo que fica escondido dentro da minha pasta para resgistrar minhas atualizacaoes... e GitHub é aonde vc coloca os seus repositorios para caso seu pc pegue fogo, vc possa acessar seus codigos de outro pc caso necessario
 
 git add consegue colocar toda a pasta? e o commit tbm ne! nao sei entao! 
+SEGUNDA TENTATIVA: git add coloca tudo na sacola e git commit registra o historico
 
 eu diria que o node nao foi reconhecido
+SEGUNDA TENTATIVA: quando tem essa msg é pq nao foi encontrado tal pasta ou tal arquivo
 
 porque button é reconhecido por tab e enter, ja caixinha colorida nao!
 
 nao sei de vdd
+SEGUNDA TENTATIVA: quando inteiros a resposta é sempre mais exata, usamos nao so com dinheiro mas com minutos...
 
 
 
