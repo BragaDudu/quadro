@@ -5,7 +5,7 @@ git add consegue colocar toda a pasta? e o commit tbm ne! nao sei entao!
 SEGUNDA TENTATIVA: git add coloca tudo na sacola e git commit registra o historico
 
 eu diria que o node nao foi reconhecido
-SEGUNDA TENTATIVA: quando tem essa msg é pq nao foi encontrado tal pasta ou tal arquivo
+SEGUNDA TENTATIVA: quando tem essa msg é pq nao foi encontrado tal pasta ou tal arquivo no path (caminho do arquivo ou da pasta)
 
 porque button é reconhecido por tab e enter, ja caixinha colorida nao!
 
