@@ -19,3 +19,5 @@
 | 2026-10-13 | 001.1 | 18:45 | 19:45 | 60 | M3 e fechamento do dia |
 | 2026-10-14 | 001.1 | 08:20 | 10:13 | 113 | M4 (user stories) e M5 (3 furos) |
 | 2026-10-14 | 001.1 | 10:13 | 10:25 | 12 | M6 (wireframe PC e celular) |
+| 2026-10-14 | 001.1 | 10:25 | 15:06 | 221 | M7 (spec para IA) e M8 (checkpoint) — descontada 1h de almoço |
+| 2026-10-14 | 001.2 | 16:12 | | | início da SUBOP 001.2 |
