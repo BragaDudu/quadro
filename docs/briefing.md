@@ -9,4 +9,4 @@ e a terceira eu n sei muuito bem nao, nao lembro direito!
 |---|---|---|---|
 | 1. Trabalho duplicado | duas pessoas resolvem o mesmo bug ao mesmo tempo | perca de tempo | Antes de começar a corrigir um bug, qualquer pessoa do time descobre em segundos se alguém já está nele, e quem é |
 | 2. Pedido perdido | mensagens dentro do zap | perdem o cliente, ou esquecem o pedido... | saber em pouco tempo aonde esta o pedido e em que fase  |
-| 3. "Já foi pro ar?" | alguem sempre tem que entrar no github para saber se subiram ou ngm subiu ja | alguem sempre tem que parar pra olhar (perca de foco e tempo) | saber se alguem subiu pro github ou nao sempre que precisar conferir |
+| 3. "Já foi pro ar?" | alguem sempre tem que entrar no github para saber se subiram ou ngm subiu ja | alguem sempre tem que parar pra olhar (perca de foco e tempo) | saber se alguem ja subiu pro ar ou nao sempre que precisar conferir |
