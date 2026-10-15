@@ -24,6 +24,7 @@
 | 2026-10-14 | 001.2 | 16:12 | 17:20 | 68 | M1 (regiões) e M2 (4 colunas) |
 | 2026-10-15 | 001.2 | 08:56 | 12:25 | 209 | M3 (cards), M4 (formulário), M5 (filtro), M6 (validador), M7 (teclado e Narrador) e prova da M8 |
 | 2026-10-15 | 001.2 | 12:25 | 12:46 | 21 | M8: revisão de IA e diário — SUBOP 001.2 concluída |
+| 2026-10-15 | CP-025 | 14:19 | | | checkpoint do Ato 0 |
 
 ## Marcos
 
