@@ -27,12 +27,16 @@ Tentativa 2: qualquer um consegue desligar isso no inspecionar
 codigo fonte eh o seu html completo, agora o DOM é o que o pc entende e nem sempre eh igual ao o meu html!
 
 ## Revisão de IA (aceito ou recuso, e por quê)
-✍️
+4. [P3] O campo obrigatório não possui indicação textual explícita
+Trecho envolvido: concordo, e ja ate coloquei!
+5. [P3] Há um problema de escrita no texto de apresentação: concordo e ja arrumei
+6. [A verificar] Não é possível avaliar a acessibilidade visual sem o CSS: nao concordo pois sei que esse vai ser um dos proximos passo la na frente entao sem pressa!
 
 ## Diário
+eu fui bem eu acho que nessas fases, aprendi sobre mais elementos de html, como <ul>, <li>, <form>, <label>, <article>...
 ## 1. O que eu entendi que não entendia antes? (seja específico)
-✍️
+nao entendia sobre esse negocio de DOM x codigo fonte, nao sabia sobre esse novos termos que falei anteriormente tbm!...
 ## 2. O que ainda está opaco?
-✍️
+esses types, ainda nao enteni muito bem, ate pq existem vario no mundo da programacao! mas eu sei que vai dar certo mais pra frente!
 ## 3. Onde ficou difícil, e o que destravou?
-✍️
+nao digo que ficou dificil, so digo que ficou meio que massante ter que codar tudo na mao, mas estou gostando pois realment estou me sentindo um dev!
