@@ -27,7 +27,8 @@
 | 2026-10-15 | 001.2 | 12:25 | 12:46 | 21 | M8: revisão de IA e diário — SUBOP 001.2 concluída |
 | 2026-10-15 | CP-025 | 14:19 | 14:56 | 37 | checkpoint do Ato 0 — 1ª tentativa, não aprovado (recuperação: HTML semântico do zero) |
 | 2026-10-15 | CP-025 | 17:42 | 19:42 | 120 | recuperação: recall A (2 firmes, 1 quase, 2 para revisão) |
-| 2026-10-16 | CP-025 | 10:07 | | | recuperação: rodada 1 do equipe.html + treino de revisão |
+| 2026-10-16 | CP-025 | 10:07 | 12:00 | 113 | recuperação: rodada 1 do equipe.html (8 pontos, validador W3C) |
+| 2026-10-16 | CP-025 | 13:57 | | | treino de revisão 01 |
 
 ## Marcos
 
