@@ -8,29 +8,45 @@
 
 
 <body>
-  <h1>Equipe Faro Labs</h1>  
+  <header><h1>Equipe Faro Labs</h1>  
   <p>Aonde tudo se conecta</p>
-    <main>
+  </header>
+   <main>
       <section aria-labelledby="pessoas">
-        <ul>
+        <h2 id="pessoas">Pessoas</h2>
+            <ul>
+            <li>
+            <article>
+              <h3>Lia</h3>
+              <p>Dev Júnior</p>
+            </article>
+          </li>
           <li>
-            <h1>Pessoas</h1>
-            <h3>Lia - Dev Júnior</h3>
-            <h3>Otavio - Tech Lead</h3>
-            <h3>Pedro - Dev Júnior</h3>
+            <article>
+              <h3>Otavio</h3>
+              <P>Tech Lead</P>
+            </article>
+          </li>
+          <li>
+            <article>
+              <h3>Pedro</h3>
+              <p>Dev Júnior</p>
+            </article>
           </li>
         </ul>
       </section>
     </main>
 
-    <form action="entrar-no-time">
-      
+    <form>
+        <h2>Adicione um membro do time</h2>
+      <label for="novo-membro">Seu nome</label>
+      <input id="novo-membro" name="nome" type="text" required maxlength="60">
+      <button type="submit">Entre no time!</button>
     </form>
-    <button class="botao-enviar-form">
-      <h4>Enviar Formulário</h4>
-    </button>
+
+
     <footer>
-      <h7>Registrado por Faro Labs - 2026 Todos os direitos reservados</h7>
+      <p>Registrado por Faro Labs - 2026 Todos os direitos reservados</p>
     </footer>
 </body>
 </html>
