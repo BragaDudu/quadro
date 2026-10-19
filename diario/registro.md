@@ -30,7 +30,8 @@
 | 2026-10-15 | CP-025 | 17:42 | 19:42 | 120 | recuperação: recall A (2 firmes, 1 quase, 2 para revisão) |
 | 2026-10-16 | CP-025 | 10:07 | 12:00 | 113 | recuperação: rodada 1 do equipe.html (8 pontos, validador W3C) |
 | 2026-10-16 | CP-025 | 13:57 | 14:35 | 38 | treino de revisão 01 + rodada 2 do equipe.html (15 min, sem consulta) |
-| 2026-10-19 | CP-025 | 08:42 | | | CP-025 versão 2 |
+| 2026-10-19 | CP-025 | 08:42 | 09:20 | 38 | CP-025 versão 2 — não aprovado (só D passou; estrutura HTML firme, falhou em seguir os requisitos) |
+| 2026-10-19 | 001.3 | 09:25 | | | início do Ato 1: A Pele (CSS) |
 
 ## Marcos
 

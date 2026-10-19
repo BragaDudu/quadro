@@ -1,0 +1,8 @@
+body {
+  font-family: system-ui,, sans-serif;
+}
+article {
+  padding: 12px;
+  border: 1px solid #999;
+  margin: 8px 0;
+}
