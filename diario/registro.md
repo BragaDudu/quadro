@@ -7,7 +7,8 @@
 | 2026-10-13 | 13:18 | 19:45 |
 | 2026-10-14 | 08:20 | 17:20 |
 | 2026-10-15 | 08:56 | 19:42 |
-| 2026-10-16 | 10:07 | |
+| 2026-10-16 | 10:07 | 18:00 |
+| 2026-10-19 | 08:42 | |
 
 ## Sessões
 
@@ -28,7 +29,8 @@
 | 2026-10-15 | CP-025 | 14:19 | 14:56 | 37 | checkpoint do Ato 0 — 1ª tentativa, não aprovado (recuperação: HTML semântico do zero) |
 | 2026-10-15 | CP-025 | 17:42 | 19:42 | 120 | recuperação: recall A (2 firmes, 1 quase, 2 para revisão) |
 | 2026-10-16 | CP-025 | 10:07 | 12:00 | 113 | recuperação: rodada 1 do equipe.html (8 pontos, validador W3C) |
-| 2026-10-16 | CP-025 | 13:57 | | | treino de revisão 01 |
+| 2026-10-16 | CP-025 | 13:57 | 14:35 | 38 | treino de revisão 01 + rodada 2 do equipe.html (15 min, sem consulta) |
+| 2026-10-19 | CP-025 | 08:42 | | | CP-025 versão 2 |
 
 ## Marcos
 
