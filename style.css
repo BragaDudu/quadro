@@ -1,12 +1,23 @@
+:root {
+  --fundo: #f4f5f7;
+  --cartao: #ffffff;
+  --texto: #1f2933;
+  --destaque: #2f5bd3;
+}
 body {
   font-family: system-ui, sans-serif;
-  background-image: url('https://images.unsplash.com/photo-1507525428034-b723cf961d3e');
-  background-size: cover;
+  background: var(--fundo);
+  color: var(--texto);
 }
 article {
-  padding: 8px;
-  border: 2px solid #ff0000;
+  padding: 12px;
+  border: 1px solid #ff0000;
   margin: 8px 0;
+  background: var(--cartao);
+}
+:focus-visible {
+  outline: 3px solid var(--destaque);
+  outline-offset: 2px;
 }
 main {
   display: grid;
