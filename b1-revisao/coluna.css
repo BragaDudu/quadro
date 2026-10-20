@@ -1,0 +1,41 @@
+:root {
+  --fundo: #f4f5f7;
+  --cartao: #ffffff;
+  --texto: #1f2933;
+  --cor-sem-dono: #e05a5a;
+}
+
+body {
+  font-family: system-ui, sans-serif;
+  background: var(--fundo);
+  color: var(--texto);
+}
+
+.coluna {
+  width: 100%;
+}
+
+.coluna ul {
+  list-style: none;
+  padding: 20px;
+}
+
+article {
+  padding: 12px;
+  margin: 8px 0;
+  border: 1px solid #999999;
+  background: #ffffff;
+}
+
+article.sem-dono {
+  background: var(--cor-sem-dono);
+  color: #ffffff;
+}
+
+.card-urgente {
+  border-left: 6px solid orange;
+}
+
+button:focus {
+  outline: none;
+}
