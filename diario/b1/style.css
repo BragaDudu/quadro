@@ -1,0 +1,148 @@
+:root {
+  --fundo: #f4f5f7;
+  --cartao: #ffffff;
+  --texto: #1f2933;
+  --destaque: #2f5bd3;
+  --cor-a-fazer: #a50000;
+  --cor-fazendo: #2f6fd3;
+  --cor-revisao: #8a6a00;
+  --cor-feito: #2e8b57;
+  --cor-sem-dono: #a50000;
+  --texto-claro: #ffffff;
+  --texto-escuro: #1f2933;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 16px;
+  font-family: system-ui, sans-serif;
+  background: var(--fundo);
+  color: var(--texto);
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-bottom: 24px;
+}
+
+main {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 16px;
+  align-items: start;
+}
+
+section {
+  min-width: 0;
+}
+
+section h2 {
+  margin-top: 0;
+  padding: 12px;
+  border-radius: 6px;
+  color: var(--texto-claro);
+}
+
+section[aria-labelledby="coluna-a-fazer"] h2 {
+  background: var(--cor-a-fazer);
+}
+
+section ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+section li {
+  margin-bottom: 12px;
+}
+
+article {
+  padding: 12px;
+  border: 1px solid #000000;
+  border-radius: 6px;
+  margin: 8px 0;
+  background: var(--cartao);
+  overflow-wrap: anywhere;
+}
+
+article h3 {
+  margin: 0 0 8px;
+  font-size: 1rem;
+  line-height: 1.4;
+}
+
+article p {
+  margin: 0;
+  font-size: 0.875rem;
+  line-height: 1.4;
+}
+
+section[aria-labelledby="coluna-a-fazer"] article {
+  border-left: 6px solid var(--cor-a-fazer);
+}
+
+article.sem-dono {
+  background: var(--cor-sem-dono);
+  color: var(--texto-claro);
+}
+
+article.sem-dono button {
+  margin-top: 12px;
+  padding: 8px 12px;
+  border: 2px solid var(--cartao);
+  border-radius: 6px;
+  background: var(--cartao);
+  color: var(--cor-sem-dono);
+  font: inherit;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+*:focus-visible {
+  outline: 3px solid var(--destaque);
+  outline-offset: 2px;
+}
+
+footer {
+  margin-top: 32px;
+  text-align: center;
+}
+
+@media (max-width: 700px) {
+  body {
+    padding: 12px;
+  }
+
+  main {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 24px;
+  }
+
+  header {
+    align-items: stretch;
+  }
+
+  header form,
+  header label {
+    max-width: 100%;
+  }
+
+  header input,
+  header select,
+  header button {
+    max-width: 100%;
+  }
+
+  section h2 {
+    margin-bottom: 12px;
+  }
+}

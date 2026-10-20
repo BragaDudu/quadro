@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Quadro — Faro Labs</title>
+</head>
+
+<body>
+
+  <header>
+    <h1>Quadro</h1>
+    <p>o trabalho dos programadores, que você faz parte!</p>
+
+    <form>
+      <label for="novo-titulo">Título do card (obrigatório)</label>
+      <input id="novo-titulo" name="titulo" type="text" required maxlength="120">
+      <button type="submit">+Novo card</button>
+    </form>
+
+    <label for="filtro">Mostrar cards de
+      <select name="responsavel" id="filtro">
+        <option value="todos">Todos</option>
+        <option value="lia">Lia</option>
+        <option value="otavio">Otávio</option>
+        <option value="sem-dono">Sem dono</option>
+      </select>
+    </label>
+  </header>
+
+  <main>
+
+    <section aria-labelledby="coluna-a-fazer">
+      <h2 id="coluna-a-fazer">A Fazer</h2>
+
+      <ul>
+        <li>
+          <article class="sem-dono">
+            <h3>Corrigir total do pedido com desconto</h3>
+            <p>Responsável: Sem dono</p>
+            <button type="button">Pegar card</button>
+          </article>
+        </li>
+
+        <li>
+          <article class="sem-dono">
+            <h3>Configurar Deploy</h3>
+            <p>Responsável: Sem dono</p>
+            <button type="button">Pegar card</button>
+          </article>
+        </li>
+
+        <li>
+          <article>
+            <h3>Validar CPF no cadastro</h3>
+            <p>Responsável: Lia</p>
+          </article>
+        </li>
+      </ul>
+    </section>
+
+  </main>
+
+  <footer>
+    <p>© 2026 Faro Labs. Todos os direitos reservados.</p>
+  </footer>
+
+</body>
+</html>
