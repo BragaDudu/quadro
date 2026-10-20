@@ -6,7 +6,7 @@
 
   --cor-a-fazer: #d64545;
   --cor-fazendo: #2f6fd3;
-  --cor-revisao: #c99a00;
+  --cor-revisao: #8a6a00;
   --cor-feito: #2e8b57;
 
   --cor-sem-dono: #d64545;
@@ -116,12 +116,9 @@ section[aria-labelledby="coluna-feito"] article {
   border-left: 6px solid var(--cor-feito);
 }
 
-article:has(p) {
-  background: var(--cartao);
-}
-
-article:has(p:first-of-type) {
-  background: var(--cartao);
+article.sem-dono {
+  background: var(--cor-sem-dono);
+  color: var(--texto-claro);
 }
 
 :focus-visible {
