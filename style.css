@@ -3,6 +3,10 @@
   --cartao: #ffffff;
   --texto: #1f2933;
   --destaque: #2f5bd3;
+    --cor-a-fazer: #d64545;
+  --cor-fazendo: #2f6fd3;
+  --cor-revisao: #c99a00;
+  --cor-feito: #2e8b57;
 }
 body {
   font-family: system-ui, sans-serif;
@@ -11,7 +15,7 @@ body {
 }
 article {
   padding: 12px;
-  border: 1px solid #ff0000;
+  border: 1px solid #000000;
   margin: 8px 0;
   background: var(--cartao);
 }
@@ -30,6 +34,21 @@ header {
   align-items: center;
   flex-wrap: wrap;
   gap: 12px;
+}
+section[aria-labelledby="coluna-a-fazer"] article {
+  border-left: 6px solid var(--cor-a-fazer);
+}
+section[aria-labelledby="coluna-a-fazer"] article {
+  border-left: 6px solid var(--cor-a-fazer);
+}
+section[aria-labelledby="coluna-fazendo"] article {
+  border-left: 6px solid var(--cor-fazendo);
+}
+section[aria-labelledby="coluna-revisao"] article {
+  border-left: 6px solid var(--cor-revisao);
+}
+section[aria-labelledby="coluna-feito"] article {
+  border-left: 6px solid var(--cor-feito);
 }
 @media (max-width: 700px) {
   main {
