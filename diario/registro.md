@@ -8,7 +8,8 @@
 | 2026-10-14 | 08:20 | 17:20 |
 | 2026-10-15 | 08:56 | 19:42 |
 | 2026-10-16 | 10:07 | 18:00 |
-| 2026-10-19 | 08:42 | |
+| 2026-10-19 | 08:42 | ~20:00 |
+| 2026-10-20 | ~08:40 | |
 
 ## Sessões
 
@@ -31,7 +32,8 @@
 | 2026-10-16 | CP-025 | 10:07 | 12:00 | 113 | recuperação: rodada 1 do equipe.html (8 pontos, validador W3C) |
 | 2026-10-16 | CP-025 | 13:57 | 14:35 | 38 | treino de revisão 01 + rodada 2 do equipe.html (15 min, sem consulta) |
 | 2026-10-19 | CP-025 | 08:42 | 09:20 | 38 | CP-025 versão 2 — não aprovado (só D passou; estrutura HTML firme, falhou em seguir os requisitos) |
-| 2026-10-19 | 001.3 | 09:25 | | | início do Ato 1: A Pele (CSS) |
+| 2026-10-19 | 001.3 | 09:25 | ~20:00 | | M1 a M5 (box model, grid, flex, celular, cores) — com pausas, horários exatos não registrados |
+| 2026-10-20 | 001.3 | ~08:40 | | | M5 (cores por coluna) e M6 |
 
 ## Marcos
 
